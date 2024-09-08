@@ -25,6 +25,7 @@ public class LoginTest {
 		
 		
 		driver.get("http://gmail.com");
+		System.out.println("finished");
 		//new comment
 		
 //		driver.findElement(By.id("Email")).sendKeys("trainer@way2automation.com");
